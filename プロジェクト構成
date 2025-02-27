@@ -1,0 +1,14 @@
+- components/
+  - SearchForm.vue
+  - ProductList.vue
+  - ProductCard.vue
+  - Pagination.vue
+  - LoadingIndicator.vue
+- composables/
+  - useRakutenApi.ts
+- pages/
+  - index.vue
+- utils/
+  - types.ts
+- .env
+- nuxt.config.ts 
